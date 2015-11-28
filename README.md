@@ -1,4 +1,4 @@
 # NodeEmpire
 Simulates a galaxy in turmoil where factions split off and empires collapse
 
-This project is currently shelved.
+The player can observe individuals have children and fight while civilization rises and falls around them.
